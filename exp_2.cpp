@@ -16,7 +16,7 @@ int main(){
         }
         else
         {
-            cout<< "the frame is sent again"<< endl;
+            cout<< "the frame is not sent again"<< endl;
         }
         
     }
